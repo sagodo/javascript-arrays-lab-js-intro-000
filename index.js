@@ -12,7 +12,7 @@ function destructivelyPrependKitten(Bob){
   return kittens
 }
 
-function destructlivelyRemoveLastKitten(1){
-  (kittens).pop(1)
+function destructlivelyRemoveLastKitten(kitten){
+  (kittens).pop(kitten)
   return kittens
 }
